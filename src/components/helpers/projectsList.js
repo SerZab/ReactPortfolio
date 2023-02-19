@@ -36,14 +36,13 @@ const projects = [
         skills: 'React, PHP, MySQL',
         img: project03,
         imgBig: project03Big,
-        gitHubLink: 'https://github.com'
+        gitHubLink: 'https://github.com/SerZab'
     },
     {
         title: 'Dating App',
         skills: 'React, PHP, MySQL',
         img: project04,
         imgBig: project04Big,
-        gitHubLink: 'https://github.com'
     },
     {
         title: 'Landing',
@@ -57,7 +56,6 @@ const projects = [
         skills: 'React, PHP, MySQL',
         img: project06,
         imgBig: project06Big,
-        gitHubLink: 'https://github.com'
     }
 ];
 
