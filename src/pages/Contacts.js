@@ -9,7 +9,7 @@ const Contacts = () => {
                     <p>Dresden, Germany</p>
                 </li>
                 <li className="content-list__item">
-                    <h2 className="title-2">Telegram / WhatsApp, Viber</h2>
+                    <h2 className="title-2">Telegram / WhatsApp / Viber</h2>
                     <p><a href="tel:+491788727417">+49 (178) 872-74-17</a></p>
                 </li>
                 <li className="content-list__item">
